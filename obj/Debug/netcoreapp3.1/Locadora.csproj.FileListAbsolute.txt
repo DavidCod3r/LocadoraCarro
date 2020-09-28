@@ -1,0 +1,13 @@
+C:\Users\me\source\repos\Locadora\Locadora\bin\Debug\netcoreapp3.1\Locadora.exe
+C:\Users\me\source\repos\Locadora\Locadora\bin\Debug\netcoreapp3.1\Locadora.deps.json
+C:\Users\me\source\repos\Locadora\Locadora\bin\Debug\netcoreapp3.1\Locadora.runtimeconfig.json
+C:\Users\me\source\repos\Locadora\Locadora\bin\Debug\netcoreapp3.1\Locadora.runtimeconfig.dev.json
+C:\Users\me\source\repos\Locadora\Locadora\bin\Debug\netcoreapp3.1\Locadora.dll
+C:\Users\me\source\repos\Locadora\Locadora\bin\Debug\netcoreapp3.1\Locadora.pdb
+C:\Users\me\source\repos\Locadora\Locadora\obj\Debug\netcoreapp3.1\Locadora.csprojAssemblyReference.cache
+C:\Users\me\source\repos\Locadora\Locadora\obj\Debug\netcoreapp3.1\Locadora.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\Locadora\Locadora\obj\Debug\netcoreapp3.1\Locadora.AssemblyInfo.cs
+C:\Users\me\source\repos\Locadora\Locadora\obj\Debug\netcoreapp3.1\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\Locadora\Locadora\obj\Debug\netcoreapp3.1\Locadora.dll
+C:\Users\me\source\repos\Locadora\Locadora\obj\Debug\netcoreapp3.1\Locadora.pdb
+C:\Users\me\source\repos\Locadora\Locadora\obj\Debug\netcoreapp3.1\Locadora.genruntimeconfig.cache
