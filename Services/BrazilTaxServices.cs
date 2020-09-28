@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Locadora.Services
 {
-    class BrazilTaxServices
+    class BrazilTaxServices : ITaxService
     {
         public double Tax(double amount)
         {
